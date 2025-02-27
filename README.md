@@ -1,0 +1,2 @@
+# Secure-Data-Hiding-in-Image-Using-Steganography
+This project uses Python and OpenCV for image steganography, allowing users to hide and extract messages from images with password protection. The message is embedded into pixel values and can only be retrieved with the correct password. It ensures secure, lossless, and covert communication, making it useful for cyber-security and private messaging
