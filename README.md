@@ -20,6 +20,7 @@ NumPy
 1. Clone the Repository
 git clone https://github.com/yourusername/steganography-project.git
 cd steganography-project
+
 **2. Install Dependencies**
 
 Make sure you have Python installed, then install required libraries:
